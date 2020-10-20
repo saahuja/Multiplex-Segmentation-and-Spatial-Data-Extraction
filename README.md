@@ -2,4 +2,4 @@
 
 
 
-Description: Multiplex Segmentation Application with Deepcell libraries, customizable analysis pipeline
+Description: Multiplex Segmentation Application using Deepcell libraries, customizable analysis pipeline
