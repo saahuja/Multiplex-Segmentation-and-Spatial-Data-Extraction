@@ -7,10 +7,10 @@ Multiplex Segmentation Application using Deepcell libraries, customizable analys
 
 
 # Main Files:
-MAIN-Multiplex-Application-Edited.ipynb
+- MAIN-Individual_Segmentations_Data Extraction.ipynb (pipeline)
 
-MAIN-Individual_Segmentations_Data Extraction.ipynb
-
+- MAIN-Multiplex-Application-Edited.ipynb (Exploration of methods used in pipeline)
+   
 Make sure when running the default to download the .jpg images from the /notebooks/Multiplex Tissue-Segmentation Model/15_T_BC180x2_[46585, 10362]/ folder into your local folder. Specifically:
 
 CD3_1.jpg, CD68_1.jpg, CD8_1.jpg, CK_1.jpg, DAPI_1.jpg, PD_L1_1.jpg
