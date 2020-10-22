@@ -23,6 +23,7 @@ Spatial Data Extraction Pipeline using the Multiplex Segmentation Application de
 - Make sure when running the default to download the .jpg images from the /notebooks/Multiplex Tissue-Segmentation Model/ folder into your local folder. Image required for this notebook:
 
 - DAPI1.jpg
+- 20200810_tissue_dataset.npz (sample data set file)
 
 
 # Required Libraries :
