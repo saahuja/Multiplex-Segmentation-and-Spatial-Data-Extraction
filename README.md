@@ -15,7 +15,7 @@ Make sure when running the default to download the .jpg images from the /noteboo
 
 CD3_1.jpg, CD68_1.jpg, CD8_1.jpg, CK_1.jpg, DAPI_1.jpg, PD_L1_1.jpg
 
-However, this can be obviously directly changed for the FOV being analyzed.
+However, this can be obviously directly changed for the Field of View (FOV) being analyzed.
 
 
 
@@ -27,6 +27,10 @@ However, this can be obviously directly changed for the FOV being analyzed.
 - numpy
 - matplotlib
 - PIL
+
+# Other Software
+
+- Qupath (required to load in new data)
 
 
 # To Make this Code Work:
