@@ -3,7 +3,7 @@
 
 
 # Description: 
-Multiplex Segmentation Application using Deepcell libraries, customizable analysis pipeline
+Spatial Data Extraction Pipeline using the Multiplex Segmentation Application deepcell-tf module
 
 
 # Main Files:
@@ -15,7 +15,7 @@ Make sure when running the default to download the .jpg images from the /noteboo
 
 CD3_1.jpg, CD68_1.jpg, CD8_1.jpg, CK_1.jpg, DAPI_1.jpg, PD_L1_1.jpg
 
-However, this can be obviously directly changed for the Field of View (FOV) being analyzed.
+This can be directly changed as needed Field of View (FOV) being analyzed.
 
 
 
