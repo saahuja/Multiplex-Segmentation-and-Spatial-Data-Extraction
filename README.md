@@ -21,12 +21,12 @@ However, this can be obviously directly changed for the FOV being analyzed.
 
 # Required Libraries :
 
-Up-to-date deepcell-tf library (See: https://github.com/vanvalenlab/deepcell-tf for requirements)
-OpenCV
-skimage
-numpy
-matplotlib
-PIL
+- Up-to-date deepcell-tf library (See: https://github.com/vanvalenlab/deepcell-tf for requirements)
+- OpenCV
+- skimage
+- numpy
+- matplotlib
+- PIL
 
 
 # To Make this Code Work:
