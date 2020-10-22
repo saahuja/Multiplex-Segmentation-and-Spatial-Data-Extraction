@@ -6,17 +6,23 @@
 Spatial Data Extraction Pipeline using the Multiplex Segmentation Application deepcell-tf module
 
 
-# Main Files:
+# Main Files (and .jpg files used in notebooks):
 - MAIN-Individual_Segmentations_Data Extraction.ipynb (pipeline)
 
-- MAIN-Multiplex-Application-Edited.ipynb (Exploration of methods used in pipeline)
-   
-Make sure when running the default to download the .jpg images from the /notebooks/Multiplex Tissue-Segmentation Model/15_T_BC180x2_[46585, 10362]/ folder into your local folder. Specifically:
+Make sure when running the default to download the .jpg images from the /notebooks/Multiplex Tissue-Segmentation Model/15_T_BC180x2_[46585, 10362]/ folder into your local folder. Images required for this notebook:
 
 CD3_1.jpg, CD68_1.jpg, CD8_1.jpg, CK_1.jpg, DAPI_1.jpg, PD_L1_1.jpg
 
 This can be directly changed as needed Field of View (FOV) being analyzed.
 
+
+
+
+- MAIN-Multiplex-Application-Edited.ipynb (Exploration of methods used in pipeline)
+   
+Make sure when running the default to download the .jpg images from the /notebooks/Multiplex Tissue-Segmentation Model/ folder into your local folder. Image required for this notebook:
+
+DAPI1.jpg
 
 
 # Required Libraries :
