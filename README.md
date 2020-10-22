@@ -36,6 +36,18 @@ However, this can be obviously directly changed for the Field of View (FOV) bein
 # To Make this Code Work:
 Run in environment with locally installed python packages as listed above 
 
+# Errors
+Occasionally an error may pop up when using the pre-trained MultiplexSegmentation weights. The error encountered 
+might look something like this:
+
+gaierror                                  Traceback (most recent call last)
+/usr/lib/python3.6/urllib/request.py in do_open(self, http_class, req, **http_conn_args)
+   1317                 h.request(req.get_method(), req.selector, req.data, headers,
+-> 1318                           encode_chunked=req.has_header('Transfer-encoding'))
+   1319             except OSError as err: # timeout error
+
+
+If this occurs, restart your jupyter notebook kernel. If that doesn't work you may need to restart your computer.
 
 # Questions:
 Email s3ahuja@ucsd.edu
